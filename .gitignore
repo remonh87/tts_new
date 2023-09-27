@@ -168,3 +168,4 @@ source/
 **/*.wav
 .python-version
 **/*.npz
+training/
